@@ -6,6 +6,9 @@
 
 <img src="https://i.imgur.com/bQU1XQh.jpg" alt="drawing" width="800"/>
 
+Modified by [u/piit79](https://reddit.com/user/piit79) to use components more in line
+with other similar kits (Mysterium etc.).
+
 ### Partslist
  |Count|Part|Reference|LCSC Part #|
  |-|-|-|-|
@@ -16,10 +19,10 @@
  |2|6mm momentary push buttons|Boot,Reset|C620202|
  |1|16 MHz quartz crystal|XTAL1|C16212|
  |1|4.7 uF electrolytic capacitor|C1|C47879|
- |2|100 nF ceramic disk capacitor|C2,C3|C353909|
- |2|22 pF ceramic disk capacitor|C4,C5|C260720|
+ |2|100 nF ceramic disk capacitor|C2,C3|C353913|
+ |2|22 pF ceramic disk capacitor|C4,C5|C254096|
  |1|1.5 kΩ resistor|R1|C58620|
- |2|68 Ω resistor|R2,R3|C714279|
+ |2|75 Ω resistor|R2,R3|C433693|
  |2|5.1 kΩ resistor|R4,R5|C714593|
  |1|10 kΩ resistor|R6|C119347|
  |2|3.6 V zener diode (DO-35 BZX55C3V6)|D1,D2|C2508|
